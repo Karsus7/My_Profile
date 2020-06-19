@@ -1,6 +1,6 @@
 # My_Profile
 
-* Unit 02 CSS and Bootstrap Homework: Responsive Portfolio
+* Unit 08 Project 1 Homework: Professional Materials
 
 # Content
 
